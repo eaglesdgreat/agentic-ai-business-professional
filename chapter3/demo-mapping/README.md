@@ -37,4 +37,4 @@ This demo uses no code. The files are provided in the course workspace:
 The uploaded dataset is saved into SPICE.
 
 ## Related Resources
-Amazon Quick Dataset page and SPICE import reference(opens in a new tab). Use this when you want the details on how file uploads import into SPICE.
+[Amazon Quick Dataset page and SPICE import reference](https://docs.aws.amazon.com/quick/latest/userguide/working-with-datasets.html). Use this when you want the details on how file uploads import into SPICE.
